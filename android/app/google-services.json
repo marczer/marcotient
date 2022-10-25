@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "745239721899",
+    "project_id": "test-d59af",
+    "storage_bucket": "test-d59af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745239721899:android:a0dac8dc40a9e9b9a044ee",
+        "android_client_info": {
+          "package_name": "com.example.fontapk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745239721899-6fiofmilql7dbpls29vl470s9893td1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLroH3P70dMi5G1RWM4RXR2mk1zKkFIS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745239721899-6fiofmilql7dbpls29vl470s9893td1j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
